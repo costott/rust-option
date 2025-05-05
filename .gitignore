@@ -1,0 +1,4 @@
+/dist
+/pyproject.toml
+/rust_option.egg-info
+/setup.cfg
